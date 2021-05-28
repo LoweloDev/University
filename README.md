@@ -1,1 +1,1 @@
-# Placeholder for instructions how to contribute
+# Placeholder for instructions how to contribu
