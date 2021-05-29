@@ -6,7 +6,7 @@ Currently these are only my own solutions, but good news!:
 Anyone who happens to stumble upon this page, happens to be studying at the same university and would like to contribute to the repository in any way, shape or form can do so.
 
 
-### You can simply push to a new branch and create a pull request for the changes to be merged to the protected branch.
+### How to contribute
 
 Clone the repo and reinit
 
