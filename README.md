@@ -1,6 +1,6 @@
-# Collection of solutions (currently only mine) of tasks given by university 
+# Collection of solutions of tasks given by university to download for educational purposes
 
-Anyone who happens to stumble upon this page and knows what task the given solution is about (usually someone studying where I do) and would like to contribute to the repository in any way, shape or form can do so.
+Anyone who happens to stumble upon this page, happens to be studying at the same university and would like to contribute to the repository in any way, shape or form can do so.
 
 
 ### You can simply push to a new branch and create a pull request for the changes to be merged to the protected branch.
