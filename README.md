@@ -12,7 +12,7 @@ Clone the repo
 
 ```git clone https://github.com/LoweloDev/University/```
 
-Add this repo as remote repository and set upstream
+Add this repo as remote repository
 
 ```git remote add origin https://github.com/LoweloDev/University/``` 
 
@@ -34,8 +34,8 @@ Commit the changes
 
 ```git commit -m "commitmessage"``` 
 
-Push the changes to new branch 
+Push the changes to new branch and set upstream
 
-```git push origin NewBranchName``` 
+```git push -u origin NewBranchName``` 
 
 Create pull request via the button or the pull requests tab and wait for review.
