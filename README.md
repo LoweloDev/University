@@ -25,6 +25,7 @@ Do whatever you want with it.
 Add the changes to the index 
 
 ```git add pathToFile``` 
+
 or to add all files in folder to index of current branch 
 
 ```git add .```
