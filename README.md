@@ -1,4 +1,7 @@
-# Collection of solutions of tasks given by university to download for educational purposes
+# Collection of solutions of tasks given by university
+
+Good for learning/comparing some different solutions than your own. Or if you are hardstuck.
+
 
 Anyone who happens to stumble upon this page, happens to be studying at the same university and would like to contribute to the repository in any way, shape or form can do so.
 
