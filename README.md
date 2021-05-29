@@ -20,7 +20,7 @@ Add this repo as remote repository and set upstream
 
 Before you start adding changes to the repo at any time make sure you got the most up to date version:
 
-```git pull origin university_protected``` or ```git pull``` since we set upstream before.
+```git pull origin university_protected``` or just ```git pull``` since we set upstream before.
 
 Do whatever you want with it. 
 
