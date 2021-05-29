@@ -1,4 +1,4 @@
-# Collection of Solutions of tasks given by university 
+# Collection of solutions of tasks given by university 
 
 Anyone who happens to stumble upon this page and knows what task the given solution is about (usually someone studying where I do) and would like to contribute to the repository in any way, shape or form can do so.
 
