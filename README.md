@@ -40,6 +40,6 @@ Commit the changes
 
 Push the changes to new branch
 
-```git push origin master``` 
+```git push origin NewBranchName``` 
 
 Create pull request via the button or the pull requests tab and wait for review.
