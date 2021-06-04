@@ -8,17 +8,21 @@ Anyone who happens to stumble upon this page, happens to be studying at the same
 
 ### How to contribute
 
-Clone the repo and reinit
+On the TOP RIGHT CORNER press FORK then:
 
-```git clone https://github.com/LoweloDev/University/```
+Clone the forked repo and reinit
+
+```git clone YourForkedRepoURL```
 
 ```git init```
 
 Add this repo as remote repository and set upstream
 
+```git remote add forkOrigin YourForkedRepoURL``` 
+
 ```git remote add origin https://github.com/LoweloDev/University/``` 
 
-```git branch --set-upstream origin university_protected```
+```git branch --set-upstream https://github.com/LoweloDev/University/ university_protected```
 
 Before you start adding changes to the repo at any time make sure you got the most up to date version:
 
@@ -40,6 +44,6 @@ Commit the changes
 
 Push the changes to new branch
 
-```git push origin NewBranchName``` 
+```git push origin BranchName``` 
 
 Create pull request via the button or the pull requests tab and wait for review.
