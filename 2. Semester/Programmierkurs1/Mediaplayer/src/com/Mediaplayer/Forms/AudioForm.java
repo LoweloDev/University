@@ -1,4 +1,7 @@
-package com.Mediaplayer;
+package com.Mediaplayer.Forms;
+
+import com.Mediaplayer.Audio;
+import com.Mediaplayer.Menu;
 
 import javax.swing.*;
 
@@ -7,7 +10,7 @@ public class AudioForm extends MediaForms {
     final int DEFAULT_DURATION = 1;
     final JTextField interprete = new JTextField(5);
     
-    AudioForm() {
+    public AudioForm() {
         super();
 
         mediumForm.add(new JLabel("Interprete:"));
@@ -17,7 +20,7 @@ public class AudioForm extends MediaForms {
 
         try {
             if (result == JOptionPane.OK_OPTION)
-                mediaplayer.addMedium(new Audio(interprete.getText(), DEFAULT_DURATION, title.getText(), Integer.parseInt(year.getText())));
+                Menu.mediaplayer.addMedium(new Audio(interprete.getText(), DEFAULT_DURATION, title.getText(), Integer.parseInt(year.getText())));
         } catch (NumberFormatException nfe) {
             nfe.printStackTrace();
             JOptionPane.showMessageDialog(mediumForm, "Please enter a Number for Year. I am too lazy to overload this shit and Java is too retarded to allow optional parameters etc vanilla.");

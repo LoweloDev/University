@@ -3,12 +3,12 @@ package com.Mediaplayer;
 import java.lang.String;
 import java.util.Objects;
 
-class Audio extends Medium {
+public class Audio extends Medium {
 
     protected String interprete;
     protected int duration;
 
-    Audio(String interprete, int duration, String title, int year) {
+    public Audio(String interprete, int duration, String title, int year) {
         super(title, year);
         this.interprete = interprete;
         this.duration = duration;
@@ -29,7 +29,6 @@ class Audio extends Medium {
             if (title.equals(audio.title) && interprete.equals(audio.interprete) && duration == audio.duration && year == audio.year)
                 return true;
         }
-
         return false;
     }
 

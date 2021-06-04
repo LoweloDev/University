@@ -1,13 +1,14 @@
 package com.Mediaplayer;
 
 
+import com.Mediaplayer.Forms.AudioForm;
+import com.Mediaplayer.Forms.PictureForm;
+
 import javax.swing.*;
-import java.util.stream.IntStream;
-import java.util.Date;
 
 public class Menu {
 
-    final static Medienverwaltung mediaplayer = new Medienverwaltung();
+    public final static Medienverwaltung mediaplayer = new Medienverwaltung();
 
     protected void mainMenu() {
         String[] options = {"Add audio file", "Add picture file", "Show media", "Show newest medium", "Show average release date", "Close"};
