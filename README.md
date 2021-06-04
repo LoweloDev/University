@@ -22,7 +22,7 @@ Add this repo as remote repository and set upstream
 
 ```git remote add origin https://github.com/LoweloDev/University/``` 
 
-```git branch --set-upstream https://github.com/LoweloDev/University/ university_protected```
+```git branch --set-upstream origin university_protected```
 
 Before you start adding changes to the repo at any time make sure you got the most up to date version:
 
