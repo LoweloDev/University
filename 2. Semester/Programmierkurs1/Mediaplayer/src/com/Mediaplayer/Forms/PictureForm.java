@@ -11,7 +11,6 @@ public class PictureForm extends MediaForms{
     public PictureForm(){
         super();
 
-
         mediumForm.add(new JLabel("Location:"));
         mediumForm.add(location);
 
