@@ -19,7 +19,7 @@ public class Main {
     }
 
     public static void main(String[] args) throws IOException {
-        File file = new File("/home/lowelodev/IdeaProjects/VL05 - Aufgabe 26/FILETOREAD.txt");
+        File file = new File("/home/lowelodev/IdeaProjects/University/2. Semester/Programmierkurs1/VL05 - Aufgabe 26/FILETOREAD.txt");
 
         System.out.println(readStringFile(file));
     }

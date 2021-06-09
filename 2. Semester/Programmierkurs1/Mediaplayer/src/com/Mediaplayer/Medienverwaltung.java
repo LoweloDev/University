@@ -1,8 +1,6 @@
 package com.Mediaplayer;
 
-import java.io.File;
-import java.io.IOException;
-import java.io.RandomAccessFile;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Comparator;
 
@@ -17,6 +15,16 @@ public class Medienverwaltung {
     protected void showMediums() {
         mediums.sort(Comparator.comparingInt(item -> item.year));
         mediums.forEach(Medium::printData);
+    }
+
+    public void writeMediums(String name) {
+            mediums.forEach(Medium -> {
+                try (FileOutputStream out = new FileOutputStream(name, true)) {
+                    Medium.printData(out);
+                } catch (IOException IOe) {
+                    IOe.printStackTrace();
+                }
+            });
     }
 
     protected void showNewestMedium() {
@@ -38,15 +46,16 @@ public class Medienverwaltung {
         return avgReleaseDate / mediums.size();
     }
 
+    //Better would be using Files class and "copy()" method
     public static void copy(File from, File to) {
+        RandomAccessFile rFileFrom;
+        RandomAccessFile rFileTo;
         try {
-            RandomAccessFile rFileFrom = new RandomAccessFile(from, "r");
-            RandomAccessFile rFileTo = new RandomAccessFile(to, "rw");
+            rFileFrom = new RandomAccessFile(from, "r");
+            rFileTo = new RandomAccessFile(to, "rw");
             for (int i = 0; i < rFileFrom.length(); i++) {
                 rFileTo.write(rFileFrom.read());
             }
-            rFileFrom.close();
-            rFileTo.close();
         } catch (IOException e) {
             e.printStackTrace();
         }

@@ -1,5 +1,6 @@
 package com.Mediaplayer;
 
+import java.io.OutputStream;
 import java.time.LocalDate;
 
 public abstract class Medium {
@@ -27,6 +28,7 @@ public abstract class Medium {
     }
 
     protected abstract void printData();
+    protected abstract void printData(OutputStream stream);
 
     //TODO Override equals/hashcode generaliztaion in Mediaplayer ?
 }

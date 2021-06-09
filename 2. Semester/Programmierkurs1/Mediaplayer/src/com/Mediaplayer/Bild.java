@@ -1,5 +1,9 @@
 package com.Mediaplayer;
 
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.OutputStream;
+import java.io.PrintStream;
 import java.util.Objects;
 
 public class Bild extends Medium {
@@ -12,7 +16,13 @@ public class Bild extends Medium {
 
 
     protected void printData() {
-        System.out.printf("ID = %s, Title: %s, Location: %s, Year: %s\n", getId(), title, location, year);
+         System.out.printf("ID = %s, Title: %s, Location: %s, Year: %s\n", getId(), title, location, year);
+    }
+
+    protected void printData(OutputStream streamType) {
+        PrintStream stream = new PrintStream(streamType);
+        stream.printf("ID = %s, Title: %s, Location: %s, Year: %s\n", getId(), title, location, year);
+        stream.close();
     }
 
     @Override
