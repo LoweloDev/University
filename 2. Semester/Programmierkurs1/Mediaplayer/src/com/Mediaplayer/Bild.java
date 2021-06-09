@@ -5,7 +5,7 @@ import java.util.Objects;
 public class Bild extends Medium {
     protected String location;
 
-    Bild(String location, String title, int year) {
+    public Bild(String location, String title, int year) {
         super(title, year);
         this.location = location;
     }

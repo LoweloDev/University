@@ -1,5 +1,8 @@
 package com.Mediaplayer;
 
+import java.io.File;
+import java.io.IOException;
+import java.io.RandomAccessFile;
 import java.util.ArrayList;
 import java.util.Comparator;
 
@@ -7,7 +10,7 @@ public class Medienverwaltung {
 
     ArrayList<Medium> mediums = new ArrayList<>();
 
-    protected void addMedium(Medium medium) {
+    public void addMedium(Medium medium) {
         mediums.add(medium);
     }
 
@@ -26,7 +29,6 @@ public class Medienverwaltung {
         }
     }
 
-
     protected double avgReleaseDate() {
         double avgReleaseDate = 0;
         for (Medium medium : mediums) {
@@ -34,5 +36,19 @@ public class Medienverwaltung {
         }
 
         return avgReleaseDate / mediums.size();
+    }
+
+    public static void copy(File from, File to) {
+        try {
+            RandomAccessFile rFileFrom = new RandomAccessFile(from, "r");
+            RandomAccessFile rFileTo = new RandomAccessFile(to, "rw");
+            for (int i = 0; i < rFileFrom.length(); i++) {
+                rFileTo.write(rFileFrom.read());
+            }
+            rFileFrom.close();
+            rFileTo.close();
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
     }
 }

@@ -1,10 +1,12 @@
-package com.Mediaplayer;
+package com.Mediaplayer.Forms;
+
+import com.Mediaplayer.Menu;
 
 import javax.swing.*;
 import java.util.Date;
 import java.util.stream.IntStream;
 
-public class MediaForms extends Menu{
+public class MediaForms extends Menu {
     //TODO implement JSpinner for year
 //    final int currYear = new Date().getYear() + 1900;
 //    final int[] years = IntStream.range(500, currYear).toArray();

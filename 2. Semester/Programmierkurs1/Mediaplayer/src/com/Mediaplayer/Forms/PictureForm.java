@@ -1,4 +1,6 @@
-package com.Mediaplayer;
+package com.Mediaplayer.Forms;
+
+import com.Mediaplayer.Bild;
 
 import javax.swing.*;
 
@@ -6,7 +8,7 @@ public class PictureForm extends MediaForms{
 
     final JTextField location = new JTextField(5);
 
-    PictureForm(){
+    public PictureForm(){
         super();
 
 
