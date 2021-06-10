@@ -1,10 +1,8 @@
-package com.Mediaplayer.Forms;
+package com.Mediaplayer.TemporaryForms;
 
 import com.Mediaplayer.Menu;
 
 import javax.swing.*;
-import java.util.Date;
-import java.util.stream.IntStream;
 
 public class MediaForms extends Menu {
     //TODO implement JSpinner for year

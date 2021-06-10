@@ -1,14 +1,18 @@
-package com.Mediaplayer.Forms;
+package com.Mediaplayer.TemporaryForms;
+
+import com.Mediaplayer.Medium;
 import com.Mediaplayer.Menu;
+
 import javax.swing.*;
+import java.util.ArrayList;
 
+public class FileLoadForm extends Menu {
 
-public class FilesaveForm extends Menu {
 
     final JPanel filesystem = new JPanel();
     final JTextField filename = new JTextField(5);
 
-    public FilesaveForm(){
+    public FileLoadForm(){
         filesystem.add(new JLabel("Filename:"));
         filesystem.add(filename);
 
@@ -17,8 +21,7 @@ public class FilesaveForm extends Menu {
         try {
             if (result == JOptionPane.OK_OPTION) {
                 if (!filename.getText().isEmpty() | !filename.getText().isBlank()) {
-                    System.out.println("Test");
-                    mediaplayer.writeMediums(filename.getText());
+                    mediaplayer.mediums = mediaplayer.bulkDeserialize(filename.getText());
                 } else {
                     throw new EmptyFileNameException("Empty Filename");
                 }
@@ -28,10 +31,9 @@ public class FilesaveForm extends Menu {
             confirm.add(new JLabel("Please enter filename or cancel"));
             int newName = JOptionPane.showConfirmDialog(null, confirm, "ERROR: Emtpy file name", JOptionPane.OK_CANCEL_OPTION);
             if (newName == JOptionPane.OK_OPTION){
-                new FilesaveForm();
-            } else {
-                mainMenu();
+                new FileLoadForm();
             }
         }
+        mainMenu();
     }
 }
