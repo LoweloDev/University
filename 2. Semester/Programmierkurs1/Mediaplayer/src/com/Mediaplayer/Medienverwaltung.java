@@ -1,12 +1,14 @@
 package com.Mediaplayer;
 
 import java.io.*;
+import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Comparator;
 
 public class Medienverwaltung {
 
-    ArrayList<Medium> mediums = new ArrayList<>();
+    // static? Maybe?
+    public ArrayList<Medium> mediums = new ArrayList<>();
 
     public void addMedium(Medium medium) {
         mediums.add(medium);
@@ -27,7 +29,7 @@ public class Medienverwaltung {
             });
     }
 
-    protected void showNewestMedium() {
+    protected void showYoungestMedium() {
         int releaseDate = 0;
         for (Medium medium : mediums) {
             if (releaseDate < medium.year) releaseDate = medium.year;
@@ -56,8 +58,53 @@ public class Medienverwaltung {
             for (int i = 0; i < rFileFrom.length(); i++) {
                 rFileTo.write(rFileFrom.read());
             }
+            rFileFrom.close();
+            rFileTo.close();
         } catch (IOException e) {
             e.printStackTrace();
         }
     }
+
+    public void serialize(Object object, String filename) {
+        try (FileOutputStream file = new FileOutputStream(filename, true); ObjectOutputStream out = new ObjectOutputStream(file)) {
+            out.writeObject(object);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+    }
+
+    public Medium deserialize(String filename) {
+        Medium readMedium = null;
+
+        try (FileInputStream file = new FileInputStream(filename); ObjectInputStream in = new ObjectInputStream(file)) {
+            readMedium = (Medium) in.readObject();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        return readMedium;
+    }
+
+    public void serialize(ArrayList<Object> object, String filename) {
+        object.forEach( subObject -> {
+            try (FileOutputStream file = new FileOutputStream(filename, true); ObjectOutputStream out = new ObjectOutputStream(file)) {
+                out.writeObject(subObject);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+        });
+    }
+
+    public ArrayList<Medium> bulkDeserialize(String filename) {
+        ArrayList<Medium> readMedium = null;
+
+        try (FileInputStream file = new FileInputStream(filename); ObjectInputStream in = new ObjectInputStream(file)) {
+             readMedium = (ArrayList<Medium>) in.readObject();
+        } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        return readMedium;
+    }
+
 }
