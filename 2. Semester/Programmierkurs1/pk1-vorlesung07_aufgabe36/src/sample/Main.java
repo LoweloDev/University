@@ -24,7 +24,6 @@ public class Main extends Application {
             }
         });
 
-
         input.setText("New Name");
         System.out.println("After change " + angestellter.getName());
 
@@ -44,6 +43,7 @@ public class Main extends Application {
         input2.setText("NewName2");
         System.out.println("After invalidation " + angestellter2.getName());
 
+        
         //36b ChangeListener bound
         StringProperty input3 = new Eingabefeld("Name").textProperty();
         StringProperty angestellter3 = new AngestellterBean("AngestellterName", true).getNameProperty();

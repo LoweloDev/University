@@ -17,10 +17,6 @@ public class Eingabefeld extends Control {
         return text;
     }
 
-    public String getText() {
-        return text.get();
-    }
-
     public void setText (String text) {
         this.text.set(text);
     }

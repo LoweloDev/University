@@ -38,17 +38,4 @@ public class AngestellterBean {
     public StringProperty getNameProperty() {
         return nameProperty;
     }
-
-    public String getNamePropertyValue() {
-        return nameProperty.get();
-    }
-
-    public void setNamePropertyValue(String name) {
-        this.nameProperty.set(name);
-    }
-
-    public boolean hasNameProperty() {
-        return isPropertyVersion;
-    }
-
 }
