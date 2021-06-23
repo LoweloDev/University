@@ -1,9 +1,10 @@
 package MediaplayerUI;
 
-import MediaplayerUI.Forms.AudioForm;
-import MediaplayerUI.Forms.FileLoadForm;
-import MediaplayerUI.Forms.FileSaveForm;
-import MediaplayerUI.Forms.PictureForm;
+//import MediaplayerUI.Forms.FileLoadForm;
+//import MediaplayerUI.Forms.FileSaveForm;
+//import MediaplayerUI.Forms.PictureForm;
+import MediaplayerUI.Forms.FormTypes;
+import MediaplayerUI.Forms.MediaForm;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -20,17 +21,18 @@ public class Main extends Application {
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
 
-        PictureForm pictureForm = new PictureForm(primaryStage);
-        pictureForm.showView();
+//        PictureForm picForm = new PictureForm(primaryStage);
+//        picForm.showView();
+//
+//        FileLoadForm fileLoadForm = new FileLoadForm(primaryStage);
+//        fileLoadForm.showView();
+//
+//        FileSaveForm fileSaveForm = new FileSaveForm(primaryStage);
+//        fileSaveForm.showView();
 
-        AudioForm audioForm = new AudioForm(primaryStage);
-        audioForm.showView();
+        MediaForm mf = new MediaForm(primaryStage);
+        mf.showView(FormTypes.audio);
 
-        FileLoadForm fileLoadForm = new FileLoadForm(primaryStage);
-        fileLoadForm.showView();
-
-        FileSaveForm fileSaveForm = new FileSaveForm(primaryStage);
-        fileSaveForm.showView();
     }
 
     public static void main(String[] args) {

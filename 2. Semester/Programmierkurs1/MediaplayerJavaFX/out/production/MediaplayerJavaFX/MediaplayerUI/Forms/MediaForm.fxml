@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ButtonBar?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.FlowPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:id="rootPane">
+      <FlowPane layoutX="67.0" layoutY="39.0">
+            <SplitPane dividerPositions="0.5">
+                  <items>
+                        <Label prefHeight="16.0" prefWidth="73.0" text="Title"/>
+                        <TextField prefHeight="24.0" prefWidth="193.0" promptText="Text" fx:id="titleField"/>
+                  </items>
+            </SplitPane>
+            <SplitPane dividerPositions="0.5">
+                  <items>
+                        <Label prefHeight="16.0" prefWidth="73.0" text="Year"/>
+                        <TextField prefHeight="24.0" prefWidth="193.0" promptText="Text" fx:id="yearField"/>
+                  </items>
+            </SplitPane>
+            <SplitPane fx:id="locationPane">
+                  <items>
+                        <Label prefHeight="16.0" prefWidth="73.0" text="Interprete" />
+                        <TextField prefHeight="24.0" prefWidth="193.0" promptText="Text" fx:id="locationField"/>
+                  </items>
+            </SplitPane>
+            <ButtonBar layoutX="67.0" layoutY="325.0" prefHeight="40.0" prefWidth="480.0" AnchorPane.leftAnchor="67.0" AnchorPane.rightAnchor="67.0">
+                  <buttons>
+                        <Button mnemonicParsing="false" text="Add" ButtonBar.buttonData="LEFT" fx:id="add" onAction="#addHandler" />
+                        <Button mnemonicParsing="false" text="Cancel" ButtonBar.buttonData="RIGHT" fx:id="cancel" onAction="#cancelHandler"/>
+                  </buttons>
+            </ButtonBar>
+      </FlowPane>
+</AnchorPane>
