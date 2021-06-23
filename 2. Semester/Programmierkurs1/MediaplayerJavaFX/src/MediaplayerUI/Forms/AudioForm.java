@@ -1,20 +1,18 @@
 package MediaplayerUI.Forms;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Parent;
-import javafx.scene.Scene;
+import MediaplayerUI.Forms.MediaForm;
 import javafx.stage.Stage;
 
-public class AudioForm extends MediaForms {
+import java.io.IOException;
 
-    public AudioForm(Stage parentStage) {
+public class AudioForm extends MediaForm {
+
+    public AudioForm(Stage parentStage) throws IOException {
         super(parentStage);
     }
 
     @Override
-    public void showView() throws Exception {
-        Parent pane = FXMLLoader.load(getClass().getResource("MediaForms.fxml"));
+    public void showView() {
         this.setTitle("Add audio");
-        this.setScene(new Scene(pane));
         this.showAndWait();
     }
 

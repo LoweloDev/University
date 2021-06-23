@@ -1,6 +1,5 @@
 package MediaplayerUI;
 
-import MediaplayerUI.Forms.AudioForm;
 import MediaplayerUI.Forms.FileLoadForm;
 import MediaplayerUI.Forms.FileSaveForm;
 import MediaplayerUI.Forms.PictureForm;
@@ -20,11 +19,8 @@ public class Main extends Application {
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
 
-        PictureForm pictureForm = new PictureForm(primaryStage);
-        pictureForm.showView();
-
-        AudioForm audioForm = new AudioForm(primaryStage);
-        audioForm.showView();
+        PictureForm picForm = new PictureForm(primaryStage);
+        picForm.showView();
 
         FileLoadForm fileLoadForm = new FileLoadForm(primaryStage);
         fileLoadForm.showView();
