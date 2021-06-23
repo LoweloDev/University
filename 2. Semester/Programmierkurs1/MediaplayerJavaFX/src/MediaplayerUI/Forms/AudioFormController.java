@@ -1,16 +1,27 @@
 package MediaplayerUI.Forms;
 
-import MediaplayerUI.Forms.MediaFormController;
+import MediaplayerData.Audio;
 import javafx.fxml.FXML;
 import javafx.scene.control.TextField;
 
+import MediaplayerUI.Forms.MediaForm;
+import javafx.stage.Stage;
+
+import javax.print.attribute.standard.Media;
+import java.io.IOException;
+
 public class AudioFormController extends MediaFormController {
+    private FormTypes formType = FormTypes.audio;
+
     @FXML
     private TextField interpreteField;
 
-    @FXML
-    public void actionHandler() {
+    @Override
+    public void addHandler() {
         System.out.println(this.getTitleField().getText());
-        System.out.println(interpreteField);
+    }
+
+    public FormTypes getFormType() {
+        return formType;
     }
 }

@@ -1,5 +1,5 @@
 package MediaplayerUI.Forms;
 
-enum FormTypes {
-    AUDIO, PICTURE, SAVE, LOAD;
+public enum FormTypes {
+    audio, picture, save, load;
 }

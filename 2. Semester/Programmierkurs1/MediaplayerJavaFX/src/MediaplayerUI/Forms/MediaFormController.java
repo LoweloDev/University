@@ -3,8 +3,7 @@ package MediaplayerUI.Forms;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
-
-import java.io.IOException;
+import javafx.stage.Stage;
 
 public abstract class MediaFormController {
         @FXML
@@ -16,11 +15,16 @@ public abstract class MediaFormController {
         @FXML
         private TextField yearField;
 
-        public MediaFormController() {
-        }
+        @FXML
+        public abstract void addHandler();
 
         @FXML
-        public abstract void actionHandler() throws IOException;
+        public void cancelHandler() {
+                Stage stage = (Stage) cancel.getScene().getWindow();
+                stage.close();
+        }
+
+        public abstract FormTypes getFormType();
 
         public Button getAddButton() {
             return this.add;
