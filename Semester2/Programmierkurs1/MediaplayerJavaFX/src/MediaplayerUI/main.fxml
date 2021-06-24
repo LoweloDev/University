@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Menu?>
+<?import javafx.scene.control.MenuBar?>
+<?import javafx.scene.control.MenuItem?>
+<?import javafx.scene.control.SeparatorMenuItem?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="rootPane" maxHeight="1.7976931348623157E308" maxWidth="1.7976931348623157E308" minHeight="720.0" minWidth="1280.0" prefHeight="720.0" prefWidth="1280.0" stylesheets="@caspian.css" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="MediaplayerUI.Controller">
+   <children>
+      <MenuBar styleClass="menu-item" stylesheets="@caspian.css" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+        <menus>
+          <Menu mnemonicParsing="false" styleClass="menu-item" text="Datei">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Laden" />
+                  <MenuItem mnemonicParsing="false" text="Speichern" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" text="Medienliste in Datei" />
+                  <SeparatorMenuItem mnemonicParsing="false" />
+                  <MenuItem mnemonicParsing="false" text="Beenden" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Medium">
+            <items>
+              <MenuItem mnemonicParsing="false" onAction="#addAudio" text="Audio neu" />
+                  <MenuItem mnemonicParsing="false" onAction="#addPicture" text="Bild neu" />
+            </items>
+          </Menu>
+          <Menu mnemonicParsing="false" text="Anzeige">
+            <items>
+              <MenuItem mnemonicParsing="false" text="Erscheinungsjahr" />
+                  <MenuItem mnemonicParsing="false" text="Neuestes Medium" />
+            </items>
+          </Menu>
+        </menus>
+      </MenuBar>
+   </children>
+</AnchorPane>

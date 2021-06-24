@@ -1,0 +1,3 @@
+C:/Users/tobia/CLionProjects/kleines1ma1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tobia/CLionProjects/kleines1ma1/cmake-build-debug/CMakeFiles/HW.dir
+C:/Users/tobia/CLionProjects/kleines1ma1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

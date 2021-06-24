@@ -1,3 +1,0 @@
-C:/Users/tobia/CLionProjects/upperCase/cmake-build-debug/CMakeFiles/upperCase.dir
-C:/Users/tobia/CLionProjects/upperCase/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/tobia/CLionProjects/upperCase/cmake-build-debug/CMakeFiles/rebuild_cache.dir

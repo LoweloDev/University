@@ -1,3 +1,0 @@
-C:/Users/tobia/CLionProjects/Arithmetik/cmake-build-debug/CMakeFiles/Arithmetik.dir
-C:/Users/tobia/CLionProjects/Arithmetik/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/tobia/CLionProjects/Arithmetik/cmake-build-debug/CMakeFiles/rebuild_cache.dir
