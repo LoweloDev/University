@@ -14,3 +14,14 @@ Can be:
         }
 ```
 
+ObservableArrayList to ArrayList:
+
+```java
+new ArrayList<Type> (ObservableArrayList)
+```
+
+ArrayList to ObservableArrayList:
+
+```java
+FXCollections.observableArrayList(ArrayList)
+```
