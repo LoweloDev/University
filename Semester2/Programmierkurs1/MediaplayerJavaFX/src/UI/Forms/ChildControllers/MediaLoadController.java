@@ -22,7 +22,7 @@ public class MediaLoadController extends MediaFormController implements Initiali
     @Override
     public void addHandler() {
         verwaltung.mediums.setAll(
-                FXCollections.observableArrayList(laden("PlaceholderDB/Medien"))
+                FXCollections.observableArrayList(laden(filenameField.getText()))
         );
     }
 
