@@ -1,6 +1,5 @@
 package UI.Forms.ChildControllers;
 
-import Data.Audio;
 import UI.Forms.FormTypes;
 import UI.Forms.MediaFormController;
 import javafx.fxml.FXML;
@@ -31,15 +30,13 @@ public class AudioFormController extends MediaFormController implements Initiali
 
     @Override
     public void addHandler() {
-        verwaltung.addMedium(new Audio(
-                        getInterpreteField().getText(),
-                        5,
-                        getTitleField().getText(),
-                        Integer.parseInt(getYearField().getText())
-                ));
-
-        // Test
-        verwaltung.showMediums();
+        verwaltung.addMedium(createMedia(
+                formType,
+                getTitleField().getText(),
+                Integer.parseInt(getYearField().getText()),
+                "",
+                getInterpreteField().getText())
+        );
     }
 
     //Should be in seperate Model

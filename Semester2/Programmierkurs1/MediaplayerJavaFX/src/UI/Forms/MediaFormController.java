@@ -1,24 +1,27 @@
 package UI.Forms;
 
-import Data.Medienverwaltung;
+import Data.*;
+import PlaceholderDB.IDao;
 import UI.Controller;
-import UI.Main;
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.AnchorPane;
 import javafx.stage.Stage;
 
-public abstract class MediaFormController {
+import java.util.ArrayList;
+
+//TODO Rework, Templating with listView, rm -r Controller Hell
+
+public abstract class MediaFormController implements IDao {
+        protected final static Medienverwaltung verwaltung = Controller.getVerwaltung();
+
         @FXML
         private Button add, cancel;
         @FXML
         private TextField titleField, yearField;
         @FXML
         AnchorPane titlePane, yearPane;
-
-        protected Medienverwaltung verwaltung = Controller.getVerwaltung();
-
 
         @FXML
         public abstract void addHandler();
@@ -27,6 +30,24 @@ public abstract class MediaFormController {
         public void cancelHandler() {
                 Stage stage = (Stage) cancel.getScene().getWindow();
                 stage.close();
+        }
+
+        public Medium createMedia(FormTypes type, String title, int year, String location, String interprete) {
+                if (type == FormTypes.audio) {
+                        return new Audio(interprete, 1, title, year);
+                } else {
+                        return new Bild(location, title, year);
+                }
+        }
+
+        @Override
+        public void speichern(ArrayList<Medium> liste, String filename) {
+                verwaltung.serialize(liste, filename);
+        }
+
+        @Override
+        public ArrayList<Medium> laden(String filename) {
+                return verwaltung.bulkDeserialize(filename);
         }
 
         public abstract FormTypes getFormType();

@@ -22,7 +22,7 @@ public class MediaSaveController extends MediaFormController implements Initiali
 
     @Override
     public void addHandler() {
-        verwaltung.serialize(new ArrayList<Medium>(verwaltung.mediums), filenameField.getText());
+        speichern(new ArrayList<>(verwaltung.mediums), filenameField.getText());
     }
 
     @Override

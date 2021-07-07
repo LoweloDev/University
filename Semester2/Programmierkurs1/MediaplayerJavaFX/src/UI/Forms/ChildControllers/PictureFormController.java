@@ -1,13 +1,11 @@
 package UI.Forms.ChildControllers;
 
-import Data.Bild;
 import UI.Forms.FormTypes;
 import UI.Forms.MediaFormController;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.AnchorPane;
-import javafx.scene.layout.FlowPane;
 
 import java.net.URL;
 import java.util.ResourceBundle;
@@ -31,14 +29,13 @@ public class PictureFormController extends MediaFormController implements Initia
 
     @Override
     public void addHandler() {
-       verwaltung.addMedium(new Bild(
-               getLocationField().getText(),
-               getTitleField().getText(),
-               Integer.parseInt(getYearField().getText())
-       ));
-
-       //Test
-        verwaltung.showMediums();
+        verwaltung.addMedium(createMedia(
+                formType,
+                getTitleField().getText(),
+                Integer.parseInt(getYearField().getText()),
+                getLocationField().getText(),
+                "")
+        );
     }
 
     //Should be in seperate Model

@@ -1,6 +1,5 @@
 package UI;
 
-import Data.Audio;
 import Data.Medienverwaltung;
 import Data.Medium;
 import UI.Forms.FormTypes;
@@ -9,20 +8,14 @@ import UI.Forms.MediaForm;
 import javafx.collections.FXCollections;
 import javafx.collections.ListChangeListener;
 import javafx.collections.ObservableList;
-import javafx.event.ActionEvent;
-import javafx.event.EventHandler;
 import javafx.fxml.FXML;
 import javafx.fxml.Initializable;
-import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.Button;
 import javafx.scene.control.Label;
 import javafx.scene.control.ListView;
-import javafx.scene.control.TextArea;
 import javafx.scene.layout.AnchorPane;
-import javafx.scene.layout.Background;
 import javafx.scene.layout.VBox;
-import javafx.scene.paint.Color;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
 
@@ -34,6 +27,7 @@ import static java.util.stream.Collectors.toList;
 
 public class Controller implements Initializable {
     private final static Medienverwaltung verwaltung = new Medienverwaltung();
+
     ListView<String> mediumList = new ListView<String>();
 
     @FXML
@@ -139,7 +133,7 @@ public class Controller implements Initializable {
         return verwaltung;
     }
 
-    private ObservableList<String> mapToStringObservable (ObservableList< ? extends Medium> observableList) {
+    private ObservableList<String> mapToStringObservableList (ObservableList< ? extends Medium> observableList) {
         return observableList.stream()
                 .map(Medium::toString)
                 .collect(Collectors.collectingAndThen(
@@ -150,7 +144,7 @@ public class Controller implements Initializable {
     @Override
     public void initialize(URL url, ResourceBundle resourceBundle) {
         verwaltung.mediums.addListener((ListChangeListener<Medium>) change -> {
-            mediumList.setItems(mapToStringObservable(change.getList()));
+            mediumList.setItems(mapToStringObservableList(change.getList()));
         });
 
         rootBox.getChildren().add(mediumList);
