@@ -1,0 +1,3 @@
+/home/lowelodev/IdeaProjects/University/Semester2/RechnerstrukturenUndBetriebssysteme2/rub2-uebung02/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lowelodev/IdeaProjects/University/Semester2/RechnerstrukturenUndBetriebssysteme2/rub2-uebung02/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lowelodev/IdeaProjects/University/Semester2/RechnerstrukturenUndBetriebssysteme2/rub2-uebung02/cmake-build-debug/CMakeFiles/untitled.dir

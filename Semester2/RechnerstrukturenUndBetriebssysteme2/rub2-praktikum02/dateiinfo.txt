@@ -1,0 +1,572 @@
+/home/lowelodev/CLionProjects: Verzeichnis, r 1000 
+Sexuell/home/lowelodev/Desktop: Verzeichnis, r 1000 
+Sexuell/home/lowelodev/Documents: Verzeichnis, r 1000 
+Sexuell/home/lowelodev/Downloads: Verzeichnis, r 1000 
+Sexuell/home/lowelodev/Games: Verzeichnis, r 1000 
+Sexuell/home/lowelodev/IdeaProjects: Verzeichnis, r 1000 
+Sexuell/home/lowelodev/Main_2021_06_21_225252.jfr: -r 1000 
+Sexuell/home/lowelodev/Music: Verzeichnis, r 1000 
+Sexuell/home/lowelodev/Pictures: Verzeichnis, r 1000 
+Sexuell/home/lowelodev/pkglist.txt: -r 1000 
+Sexuell/home/lowelodev/Public: Verzeichnis, r 1000 
+Sexuell/home/lowelodev/Templates: Verzeichnis, r 1000 
+Sexuell/home/lowelodev/Videos: Verzeichnis, r 1000 
+Sexuell/home/lowelodev/CLionProjects: Verzeichnis, r 1000 
+ 1000 
+/home/lowelodev/Desktop: Verzeichnis, r 1000 
+ 1000 
+/home/lowelodev/Documents: Verzeichnis, r 1000 
+ 1000 
+/home/lowelodev/Downloads: Verzeichnis, r 1000 
+ 1000 
+/home/lowelodev/Games: Verzeichnis, r 1000 
+ 1000 
+/home/lowelodev/IdeaProjects: Verzeichnis, r 1000 
+ 1000 
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r 1000 
+ 1000 
+/home/lowelodev/Music: Verzeichnis, r 1000 
+ 1000 
+/home/lowelodev/Pictures: Verzeichnis, r 1000 
+ 1000 
+/home/lowelodev/pkglist.txt: -r 1000 
+ 1000 
+/home/lowelodev/Public: Verzeichnis, r 1000 
+ 1000 
+/home/lowelodev/Templates: Verzeichnis, r 1000 
+ 1000 
+/home/lowelodev/Videos: Verzeichnis, r 1000 
+ 1000 
+/home/lowelodev/CLionProjects: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Desktop: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Documents: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Downloads: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Games: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/IdeaProjects: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r 1000 
+ 0 
+/home/lowelodev/Music: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Pictures: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/pkglist.txt: -r 1000 
+ 0 
+/home/lowelodev/Public: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Templates: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Videos: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/CLionProjects: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Desktop: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Documents: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Downloads: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Games: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/IdeaProjects: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r 1000 
+ 0 
+/home/lowelodev/Music: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Pictures: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/pkglist.txt: -r 1000 
+ 0 
+/home/lowelodev/Public: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Templates: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Videos: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/CLionProjects: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Desktop: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Documents: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Downloads: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Games: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/IdeaProjects: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r 1000 
+ 0 
+/home/lowelodev/Music: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Pictures: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/pkglist.txt: -r 1000 
+ 0 
+/home/lowelodev/Public: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Templates: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/Videos: Verzeichnis, r 1000 
+ 0 
+/home/lowelodev/CLionProjects: Verzeichnis, r 1000 
+ 0 /home/lowelodev/Desktop: Verzeichnis, r 1000 
+ 0 /home/lowelodev/Documents: Verzeichnis, r 1000 
+ 0 /home/lowelodev/Downloads: Verzeichnis, r 1000 
+ 0 /home/lowelodev/Games: Verzeichnis, r 1000 
+ 0 /home/lowelodev/IdeaProjects: Verzeichnis, r 1000 
+ 0 /home/lowelodev/Main_2021_06_21_225252.jfr: -r 1000 
+ 0 /home/lowelodev/Music: Verzeichnis, r 1000 
+ 0 /home/lowelodev/Pictures: Verzeichnis, r 1000 
+ 0 /home/lowelodev/pkglist.txt: -r 1000 
+ 0 /home/lowelodev/Public: Verzeichnis, r 1000 
+ 0 /home/lowelodev/Templates: Verzeichnis, r 1000 
+ 0 /home/lowelodev/Videos: Verzeichnis, r 1000 
+ 0 /home/lowelodev/CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Desktop: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Documents: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Downloads: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Games: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Music: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Pictures: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/pkglist.txt: -r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Public: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Templates: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Videos: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Desktop: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Documents: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Downloads: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Games: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r UserID: 1000 GroupID: 33188 
+/home/lowelodev/Music: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Pictures: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/pkglist.txt: -r UserID: 1000 GroupID: 33188 
+/home/lowelodev/Public: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Templates: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Videos: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Desktop: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Documents: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Downloads: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Games: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r UserID: 1000 GroupID: 33188 
+/home/lowelodev/Music: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Pictures: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/pkglist.txt: -r UserID: 1000 GroupID: 33188 
+/home/lowelodev/Public: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Templates: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Videos: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Desktop: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Documents: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Downloads: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Games: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Music: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Pictures: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/pkglist.txt: -r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Public: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Templates: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Videos: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/CLionProjects: Verzeichnis,  UserID: 1000 GroupID: 1000 
+/home/lowelodev/Desktop: Verzeichnis,  UserID: 1000 GroupID: 1000 
+/home/lowelodev/Documents: Verzeichnis,  UserID: 1000 GroupID: 1000 
+/home/lowelodev/Downloads: Verzeichnis,  UserID: 1000 GroupID: 1000 
+/home/lowelodev/Games: Verzeichnis,  UserID: 1000 GroupID: 1000 
+/home/lowelodev/IdeaProjects: Verzeichnis,  UserID: 1000 GroupID: 1000 
+/home/lowelodev/Main_2021_06_21_225252.jfr: - UserID: 1000 GroupID: 1000 
+/home/lowelodev/Music: Verzeichnis,  UserID: 1000 GroupID: 1000 
+/home/lowelodev/Pictures: Verzeichnis,  UserID: 1000 GroupID: 1000 
+/home/lowelodev/pkglist.txt: - UserID: 1000 GroupID: 1000 
+/home/lowelodev/Public: Verzeichnis,  UserID: 1000 GroupID: 1000 
+/home/lowelodev/Templates: Verzeichnis,  UserID: 1000 GroupID: 1000 
+/home/lowelodev/Videos: Verzeichnis,  UserID: 1000 GroupID: 1000 
+/home/lowelodev/CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Desktop: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Documents: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Downloads: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Games: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Music: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Pictures: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/pkglist.txt: -r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Public: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Templates: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/Videos: Verzeichnis, r UserID: 1000 GroupID: 1000 
+/home/lowelodev/CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Desktop: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Documents: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Downloads: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Games: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r UserID: 1000 GroupID: 33188 
+/home/lowelodev/Music: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Pictures: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/pkglist.txt: -r UserID: 1000 GroupID: 33188 
+/home/lowelodev/Public: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Templates: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/Videos: Verzeichnis, r UserID: 1000 GroupID: 16877 
+/home/lowelodev/CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 16877 USR 256 
+/home/lowelodev/Desktop: Verzeichnis, r UserID: 1000 GroupID: 16877 USR 256 
+/home/lowelodev/Documents: Verzeichnis, r UserID: 1000 GroupID: 16877 USR 256 
+/home/lowelodev/Downloads: Verzeichnis, r UserID: 1000 GroupID: 16877 USR 256 
+/home/lowelodev/Games: Verzeichnis, r UserID: 1000 GroupID: 16877 USR 256 
+/home/lowelodev/IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 16877 USR 256 
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r UserID: 1000 GroupID: 33188 USR 256 
+/home/lowelodev/Music: Verzeichnis, r UserID: 1000 GroupID: 16877 USR 256 
+/home/lowelodev/Pictures: Verzeichnis, r UserID: 1000 GroupID: 16877 USR 256 
+/home/lowelodev/pkglist.txt: -r UserID: 1000 GroupID: 33188 USR 256 
+/home/lowelodev/Public: Verzeichnis, r UserID: 1000 GroupID: 16877 USR 256 
+/home/lowelodev/Templates: Verzeichnis, r UserID: 1000 GroupID: 16877 USR 256 
+/home/lowelodev/Videos: Verzeichnis, r UserID: 1000 GroupID: 16877 USR 256 
+/home/lowelodev/CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Desktop: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Documents: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Downloads: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Games: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r UserID: 1000 GroupID: 420 USR 256 
+/home/lowelodev/Music: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Pictures: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/pkglist.txt: -r UserID: 1000 GroupID: 420 USR 256 
+/home/lowelodev/Public: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Templates: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Videos: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Desktop: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Documents: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Downloads: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Games: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Main_2021_06_21_225252.jfr: r UserID: 1000 GroupID: 420 USR 256 
+/home/lowelodev/Music: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Pictures: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/pkglist.txt: r UserID: 1000 GroupID: 420 USR 256 
+/home/lowelodev/Public: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Templates: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Videos: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Desktop: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Documents: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Downloads: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Games: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Main_2021_06_21_225252.jfr: r UserID: 1000 GroupID: 420 USR 256 
+/home/lowelodev/Music: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Pictures: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/pkglist.txt: r UserID: 1000 GroupID: 420 USR 256 
+/home/lowelodev/Public: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Templates: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Videos: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Desktop: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Documents: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Downloads: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Games: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Main_2021_06_21_225252.jfr: r UserID: 1000 GroupID: 420 USR 256 
+/home/lowelodev/Music: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Pictures: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/pkglist.txt: r UserID: 1000 GroupID: 420 USR 256 
+/home/lowelodev/Public: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Templates: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/Videos: Verzeichnis, r UserID: 1000 GroupID: 493 USR 256 
+/home/lowelodev/CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 1000
+/home/lowelodev/Desktop: Verzeichnis, r UserID: 1000 GroupID: 1000
+/home/lowelodev/Documents: Verzeichnis, r UserID: 1000 GroupID: 1000
+/home/lowelodev/Downloads: Verzeichnis, r UserID: 1000 GroupID: 1000
+/home/lowelodev/Games: Verzeichnis, r UserID: 1000 GroupID: 1000
+/home/lowelodev/IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 1000
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r UserID: 1000 GroupID: 1000
+/home/lowelodev/Music: Verzeichnis, r UserID: 1000 GroupID: 1000
+/home/lowelodev/Pictures: Verzeichnis, r UserID: 1000 GroupID: 1000
+/home/lowelodev/pkglist.txt: -r UserID: 1000 GroupID: 1000
+/home/lowelodev/Public: Verzeichnis, r UserID: 1000 GroupID: 1000
+/home/lowelodev/Templates: Verzeichnis, r UserID: 1000 GroupID: 1000
+/home/lowelodev/Videos: Verzeichnis, r UserID: 1000 GroupID: 1000
+/home/lowelodev/CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 1000
+Zugriffsrechte: 0755
+/home/lowelodev/Desktop: Verzeichnis, r UserID: 1000 GroupID: 1000
+Zugriffsrechte: 0755
+/home/lowelodev/Documents: Verzeichnis, r UserID: 1000 GroupID: 1000
+Zugriffsrechte: 0755
+/home/lowelodev/Downloads: Verzeichnis, r UserID: 1000 GroupID: 1000
+Zugriffsrechte: 0755
+/home/lowelodev/Games: Verzeichnis, r UserID: 1000 GroupID: 1000
+Zugriffsrechte: 0755
+/home/lowelodev/IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 1000
+Zugriffsrechte: 0755
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r UserID: 1000 GroupID: 1000
+Zugriffsrechte: 0644
+/home/lowelodev/Music: Verzeichnis, r UserID: 1000 GroupID: 1000
+Zugriffsrechte: 0755
+/home/lowelodev/Pictures: Verzeichnis, r UserID: 1000 GroupID: 1000
+Zugriffsrechte: 0755
+/home/lowelodev/pkglist.txt: -r UserID: 1000 GroupID: 1000
+Zugriffsrechte: 0644
+/home/lowelodev/Public: Verzeichnis, r UserID: 1000 GroupID: 1000
+Zugriffsrechte: 0755
+/home/lowelodev/Templates: Verzeichnis, r UserID: 1000 GroupID: 1000
+Zugriffsrechte: 0755
+/home/lowelodev/Videos: Verzeichnis, r UserID: 1000 GroupID: 1000
+Zugriffsrechte: 0755
+/home/lowelodev/CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 16 
+/home/lowelodev/Desktop: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 222 
+/home/lowelodev/Documents: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 1068 
+/home/lowelodev/Downloads: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 330 
+/home/lowelodev/Games: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 34 
+/home/lowelodev/IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 48 
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r UserID: 1000 GroupID: 1000 Size: 1192269 
+/home/lowelodev/Music: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+/home/lowelodev/Pictures: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 4966 
+/home/lowelodev/pkglist.txt: -r UserID: 1000 GroupID: 1000 Size: 986 
+/home/lowelodev/Public: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+/home/lowelodev/Templates: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+/home/lowelodev/Videos: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 26 
+/home/lowelodev/CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 16 
+/home/lowelodev/Desktop: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 222 
+/home/lowelodev/Documents: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 1068 
+/home/lowelodev/Downloads: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 330 
+/home/lowelodev/Games: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 34 
+/home/lowelodev/IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 48 
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r UserID: 1000 GroupID: 1000 Size: 1192269 
+/home/lowelodev/Music: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+/home/lowelodev/Pictures: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 4966 
+/home/lowelodev/pkglist.txt: -r UserID: 1000 GroupID: 1000 Size: 986 
+/home/lowelodev/Public: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+/home/lowelodev/Templates: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+/home/lowelodev/Videos: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 26 
+/home/lowelodev/CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 16 
+/home/lowelodev/Desktop: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 222 
+/home/lowelodev/Documents: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 1068 
+/home/lowelodev/Downloads: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 330 
+/home/lowelodev/Games: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 34 
+/home/lowelodev/IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 48 
+/home/lowelodev/Main_2021_06_21_225252.jfr: -r UserID: 1000 GroupID: 1000 Size: 1192269 
+/home/lowelodev/Music: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+/home/lowelodev/Pictures: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 4966 
+/home/lowelodev/pkglist.txt: -r UserID: 1000 GroupID: 1000 Size: 986 
+/home/lowelodev/Public: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+/home/lowelodev/Templates: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+/home/lowelodev/Videos: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 26 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 16 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 222 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 1068 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 330 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 34 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 48 
+-r UserID: 1000 GroupID: 1000 Size: 1192269 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 4966 
+-r UserID: 1000 GroupID: 1000 Size: 986 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 26 
+CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 16 
+Desktop: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 222 
+Documents: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 1068 
+Downloads: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 330 
+Games: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 34 
+IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 48 
+Main_2021_06_21_225252.jfr: -r UserID: 1000 GroupID: 1000 Size: 1192269 
+Music: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+Pictures: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 4966 
+pkglist.txt: -r UserID: 1000 GroupID: 1000 Size: 986 
+Public: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+Templates: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+Videos: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 26 
+CLionProjects: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 16 
+Desktop: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 222 
+Documents: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 1068 
+Downloads: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 330 
+Games: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 34 
+IdeaProjects: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 48 
+Main_2021_06_21_225252.jfr: -r UserID: 1000 GroupID: 1000 Size: 1192269 
+Music: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+Pictures: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 4966 
+pkglist.txt: -r UserID: 1000 GroupID: 1000 Size: 986 
+Public: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+Templates: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 
+Videos: Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 26 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 16 CLionProjects 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 222 Desktop 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 1068 Documents 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 330 Downloads 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 34 Games 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 48 IdeaProjects 
+-r UserID: 1000 GroupID: 1000 Size: 1192269 Main_2021_06_21_225252.jfr 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 Music 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 4966 Pictures 
+-r UserID: 1000 GroupID: 1000 Size: 986 pkglist.txt 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 Public 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 0 Templates 
+Verzeichnis, r UserID: 1000 GroupID: 1000 Size: 26 Videos 
+d, r UserID: 1000 GroupID: 1000 Size: 16 CLionProjects 
+d, r UserID: 1000 GroupID: 1000 Size: 222 Desktop 
+d, r UserID: 1000 GroupID: 1000 Size: 1068 Documents 
+d, r UserID: 1000 GroupID: 1000 Size: 330 Downloads 
+d, r UserID: 1000 GroupID: 1000 Size: 34 Games 
+d, r UserID: 1000 GroupID: 1000 Size: 48 IdeaProjects 
+-r UserID: 1000 GroupID: 1000 Size: 1192269 Main_2021_06_21_225252.jfr 
+d, r UserID: 1000 GroupID: 1000 Size: 0 Music 
+d, r UserID: 1000 GroupID: 1000 Size: 4966 Pictures 
+-r UserID: 1000 GroupID: 1000 Size: 986 pkglist.txt 
+d, r UserID: 1000 GroupID: 1000 Size: 0 Public 
+d, r UserID: 1000 GroupID: 1000 Size: 0 Templates 
+d, r UserID: 1000 GroupID: 1000 Size: 26 Videos 
+dr UserID: 1000 GroupID: 1000 Size: 16 CLionProjects 
+dr UserID: 1000 GroupID: 1000 Size: 222 Desktop 
+dr UserID: 1000 GroupID: 1000 Size: 1068 Documents 
+dr UserID: 1000 GroupID: 1000 Size: 330 Downloads 
+dr UserID: 1000 GroupID: 1000 Size: 34 Games 
+dr UserID: 1000 GroupID: 1000 Size: 48 IdeaProjects 
+-r UserID: 1000 GroupID: 1000 Size: 1192269 Main_2021_06_21_225252.jfr 
+dr UserID: 1000 GroupID: 1000 Size: 0 Music 
+dr UserID: 1000 GroupID: 1000 Size: 4966 Pictures 
+-r UserID: 1000 GroupID: 1000 Size: 986 pkglist.txt 
+dr UserID: 1000 GroupID: 1000 Size: 0 Public 
+dr UserID: 1000 GroupID: 1000 Size: 0 Templates 
+dr UserID: 1000 GroupID: 1000 Size: 26 Videos 
+dr 16K UserID: 1000 GroupID: 1000 CLionProjects 
+dr 222K UserID: 1000 GroupID: 1000 Desktop 
+dr 1068K UserID: 1000 GroupID: 1000 Documents 
+dr 330K UserID: 1000 GroupID: 1000 Downloads 
+dr 34K UserID: 1000 GroupID: 1000 Games 
+dr 48K UserID: 1000 GroupID: 1000 IdeaProjects 
+-r 1192269K UserID: 1000 GroupID: 1000 Main_2021_06_21_225252.jfr 
+dr 0K UserID: 1000 GroupID: 1000 Music 
+dr 4966K UserID: 1000 GroupID: 1000 Pictures 
+-r 986K UserID: 1000 GroupID: 1000 pkglist.txt 
+dr 0K UserID: 1000 GroupID: 1000 Public 
+dr 0K UserID: 1000 GroupID: 1000 Templates 
+dr 26K UserID: 1000 GroupID: 1000 Videos 
+dr 16B UserID: -970109376 GroupID: 1000 CLionProjects 
+dr 222B UserID: 1380826688 GroupID: 1000 Desktop 
+dr 1068B UserID: 638664256 GroupID: 1000 Documents 
+dr 330B UserID: 1910300224 GroupID: 1000 Downloads 
+dr 34B UserID: -594784704 GroupID: 1000 Games 
+dr 48B UserID: -7664064 GroupID: 1000 IdeaProjects 
+-r 1192269B UserID: -1495814592 GroupID: 1000 Main_2021_06_21_225252.jfr 
+dr 0B UserID: -1997361600 GroupID: 1000 Music 
+dr 4966B UserID: -513589696 GroupID: 1000 Pictures 
+-r 986B UserID: 1799208512 GroupID: 1000 pkglist.txt 
+dr 0B UserID: 2059267648 GroupID: 1000 Public 
+dr 0B UserID: 666037824 GroupID: 1000 Templates 
+dr 26B UserID: 654233152 GroupID: 1000 Videos 
+dr 16B UserID: lowelodev GroupID: 1000 CLionProjects 
+dr 222B UserID: lowelodev GroupID: 1000 Desktop 
+dr 1068B UserID: lowelodev GroupID: 1000 Documents 
+dr 330B UserID: lowelodev GroupID: 1000 Downloads 
+dr 34B UserID: lowelodev GroupID: 1000 Games 
+dr 48B UserID: lowelodev GroupID: 1000 IdeaProjects 
+-r 1192269B UserID: lowelodev GroupID: 1000 Main_2021_06_21_225252.jfr 
+dr 0B UserID: lowelodev GroupID: 1000 Music 
+dr 4966B UserID: lowelodev GroupID: 1000 Pictures 
+-r 986B UserID: lowelodev GroupID: 1000 pkglist.txt 
+dr 0B UserID: lowelodev GroupID: 1000 Public 
+dr 0B UserID: lowelodev GroupID: 1000 Templates 
+dr 26B UserID: lowelodev GroupID: 1000 Videos 
+dr 16B UserID: lowelodev GroupID: 1000 CLionProjects 
+dr 222B UserID: lowelodev GroupID: 1000 Desktop 
+dr 1068B UserID: lowelodev GroupID: 1000 Documents 
+dr 330B UserID: lowelodev GroupID: 1000 Downloads 
+dr 34B UserID: lowelodev GroupID: 1000 Games 
+dr 48B UserID: lowelodev GroupID: 1000 IdeaProjects 
+-r 1192269B UserID: lowelodev GroupID: 1000 Main_2021_06_21_225252.jfr 
+dr 0B UserID: lowelodev GroupID: 1000 Music 
+dr 4966B UserID: lowelodev GroupID: 1000 Pictures 
+-r 986B UserID: lowelodev GroupID: 1000 pkglist.txt 
+dr 0B UserID: lowelodev GroupID: 1000 Public 
+dr 0B UserID: lowelodev GroupID: 1000 Templates 
+dr 26B UserID: lowelodev GroupID: 1000 Videos 
+dr 16B UserID: ∞BèV GroupID: 1000 CLionProjects 
+dr 222B UserID: ∞Ú ¢U GroupID: 1000 Desktop 
+dr 1068B UserID: ∞¢ß0†U GroupID: 1000 Documents 
+dr 330B UserID: ∞Ç€˝V GroupID: 1000 Downloads 
+dr 34B UserID: ∞b©y∞U GroupID: 1000 Games 
+dr 48B UserID: ∞b<Î˛U GroupID: 1000 IdeaProjects 
+-r 1192269B UserID: ∞bí∏mU GroupID: 1000 Main_2021_06_21_225252.jfr 
+dr 0B UserID: ∞¢èå˚U GroupID: 1000 Music 
+dr 4966B UserID: ∞≤].V GroupID: 1000 Pictures 
+-r 986B UserID: ∞’âU GroupID: 1000 pkglist.txt 
+dr 0B UserID: ∞≤ïµU GroupID: 1000 Public 
+dr 0B UserID: ∞2ÀU GroupID: 1000 Templates 
+dr 26B UserID: ∞≤WI>V GroupID: 1000 Videos 
+dr 16B UserID: lowelodev GroupID: 708543152 CLionProjects 
+dr 222B UserID: lowelodev GroupID: -223657296 Desktop 
+dr 1068B UserID: lowelodev GroupID: -145665360 Documents 
+dr 330B UserID: lowelodev GroupID: 1621181104 Downloads 
+dr 34B UserID: lowelodev GroupID: -1979309392 Games 
+dr 48B UserID: lowelodev GroupID: 1640874672 IdeaProjects 
+-r 1192269B UserID: lowelodev GroupID: 439489200 Main_2021_06_21_225252.jfr 
+dr 0B UserID: lowelodev GroupID: 1502130864 Music 
+dr 4966B UserID: lowelodev GroupID: -178584912 Pictures 
+-r 986B UserID: lowelodev GroupID: 1755624112 pkglist.txt 
+dr 0B UserID: lowelodev GroupID: 380224176 Public 
+dr 0B UserID: lowelodev GroupID: -1339632976 Templates 
+dr 26B UserID: lowelodev GroupID: 1911173808 Videos 
+dr 16B lowelodev lowelodev CLionProjects 
+dr 222B lowelodev lowelodev Desktop 
+dr 1068B lowelodev lowelodev Documents 
+dr 330B lowelodev lowelodev Downloads 
+dr 34B lowelodev lowelodev Games 
+dr 48B lowelodev lowelodev IdeaProjects 
+-r 1192269B lowelodev lowelodev Main_2021_06_21_225252.jfr 
+dr 0B lowelodev lowelodev Music 
+dr 4966B lowelodev lowelodev Pictures 
+-r 986B lowelodev lowelodev pkglist.txt 
+dr 0B lowelodev lowelodev Public 
+dr 0B lowelodev lowelodev Templates 
+dr 26B lowelodev lowelodev Videos 
+dr 16B lowelodev lowelodev CLionProjects 
+dr 222B lowelodev lowelodev Desktop 
+dr 1068B lowelodev lowelodev Documents 
+dr 330B lowelodev lowelodev Downloads 
+dr 34B lowelodev lowelodev Games 
+dr 48B lowelodev lowelodev IdeaProjects 
+-r 1192269B lowelodev lowelodev Main_2021_06_21_225252.jfr 
+dr 0B lowelodev lowelodev Music 
+dr 4966B lowelodev lowelodev Pictures 
+-r 986B lowelodev lowelodev pkglist.txt 
+dr 0B lowelodev lowelodev Public 
+dr 0B lowelodev lowelodev Templates 
+dr 26B lowelodev lowelodev Videos 
+dr 16B lowelodev lowelodev CLionProjects 
+dr 222B lowelodev lowelodev Desktop 
+dr 1068B lowelodev lowelodev Documents 
+dr 330B lowelodev lowelodev Downloads 
+dr 34B lowelodev lowelodev Games 
+dr 48B lowelodev lowelodev IdeaProjects 
+-r 1192269B lowelodev lowelodev Main_2021_06_21_225252.jfr 
+dr 0B lowelodev lowelodev Music 
+dr 4966B lowelodev lowelodev Pictures 
+-r 986B lowelodev lowelodev pkglist.txt 
+dr 0B lowelodev lowelodev Public 
+dr 0B lowelodev lowelodev Templates 
+dr 26B lowelodev lowelodev Videos 
+dr 16B lowelodev lowelodev CLionProjects 
+dr 222B lowelodev lowelodev Desktop 
+dr 1068B lowelodev lowelodev Documents 
+dr 330B lowelodev lowelodev Downloads 
+dr 34B lowelodev lowelodev Games 
+dr 48B lowelodev lowelodev IdeaProjects 
+-r 1192269B lowelodev lowelodev Main_2021_06_21_225252.jfr 
+dr 0B lowelodev lowelodev Music 
+dr 4966B lowelodev lowelodev Pictures 
+-r 986B lowelodev lowelodev pkglist.txt 
+dr 0B lowelodev lowelodev Public 
+dr 0B lowelodev lowelodev Templates 
+dr 26B lowelodev lowelodev Videos 
