@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lowelodev/IdeaProjects/University/Semester2/RechnerstrukturenUndBetriebssysteme2/rub2-praktikum02/dateiinfo.c
+stdio.h
+-
+sys/types.h
+-
+sys/stat.h
+-
+libgen.h
+-
+pwd.h
+-
+grp.h
+-
+

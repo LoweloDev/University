@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/rub2_praktikum02.dir/dateiinfo.c.o -o rub2_praktikum02 
