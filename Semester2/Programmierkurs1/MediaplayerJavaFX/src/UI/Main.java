@@ -24,7 +24,6 @@ public class Main extends Application {
         mainScene.getStylesheets().add(
                 getClass().getResource("Main.css").toExternalForm()
         );
-
         primaryStage.setTitle("JavaFXify");
         primaryStage.setScene(mainScene);
         primaryStage.show();
