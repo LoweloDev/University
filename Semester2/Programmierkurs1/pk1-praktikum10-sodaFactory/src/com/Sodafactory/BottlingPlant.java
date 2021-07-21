@@ -2,14 +2,7 @@ package com.Sodafactory;
 
 import static java.lang.Thread.sleep;
 
-public class BottlingPlant implements Runnable{
-
-    Conveyor conveyor;
-
-    BottlingPlant(Conveyor conveyor) {
-        this.conveyor = conveyor;
-    }
-
+record BottlingPlant(Conveyor conveyor) implements Runnable {
     @Override
     public void run() {
         while (!conveyor.isOverloaded()) {

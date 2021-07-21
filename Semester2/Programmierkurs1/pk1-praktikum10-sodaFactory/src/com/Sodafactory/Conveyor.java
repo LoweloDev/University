@@ -3,11 +3,11 @@ package com.Sodafactory;
 import java.util.ArrayDeque;
 
 public class Conveyor {
-    ArrayDeque<Bottle> bottles = new ArrayDeque<>();
+    private final ArrayDeque<Bottle> belt = new ArrayDeque<>();
 
     void load(Bottle b) {
         if (!isOverloaded()) {
-            bottles.add(b);
+            getBelt().add(b);
         }
         synchronized (this) {
             this.notify();
@@ -15,11 +15,11 @@ public class Conveyor {
     }
 
     Bottle withdraw() {
-        return bottles.pollLast();
+        return getBelt().pollLast();
     }
 
     boolean isEmpty(){
-        if (bottles.isEmpty()) {
+        if (getBelt().isEmpty()) {
             synchronized (this) {
                 try {
                     this.wait();
@@ -28,10 +28,14 @@ public class Conveyor {
                 }
             }
         }
-        return bottles.isEmpty();
+        return getBelt().isEmpty();
     }
 
     boolean isOverloaded() {
-        return bottles.size() == 50;
+        return getBelt().size() == 50;
+    }
+
+    ArrayDeque<Bottle> getBelt() {
+        return belt;
     }
 }

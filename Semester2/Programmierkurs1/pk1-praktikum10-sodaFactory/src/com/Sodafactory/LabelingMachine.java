@@ -4,16 +4,10 @@ import java.time.Year;
 
 import static java.lang.Thread.sleep;
 
-public class LabelingMachine implements Runnable {
-    Conveyor conveyor;
-
-    LabelingMachine(Conveyor conveyor) {
-        this.conveyor = conveyor;
-    }
-
+record LabelingMachine(Conveyor conveyor) implements Runnable {
     @Override
     public void run() {
-        while(!conveyor.isEmpty()) {
+        while (!conveyor.isEmpty()) {
             Bottle bottle = conveyor.withdraw();
             bottle.setLabel(new Label(bottle.getDrinkType().toString(), Year.now().getValue() + 2));
 
