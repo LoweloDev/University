@@ -30,3 +30,6 @@ ppid 392693, processID 392697, pid1 392696, pid 2 392693, pid3 0
 ppid 352995, processID 392693, pid1 392696, pid 2 392693, pid3 392697
 0 2 1
 ```
+### Flowchart of main.c
+
+![image](https://i.ibb.co/dtwR0p7/image.png)
