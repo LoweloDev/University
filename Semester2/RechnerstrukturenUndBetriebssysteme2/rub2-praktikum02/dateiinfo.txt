@@ -570,3 +570,16 @@ dr 4966B lowelodev lowelodev Pictures
 dr 0B lowelodev lowelodev Public 
 dr 0B lowelodev lowelodev Templates 
 dr 26B lowelodev lowelodev Videos 
+dr 16B lowelodev lowelodev CLionProjects 
+dr 282B lowelodev lowelodev Desktop 
+dr 1376B lowelodev lowelodev Documents 
+dr 330B lowelodev lowelodev Downloads 
+dr 34B lowelodev lowelodev Games 
+dr 48B lowelodev lowelodev IdeaProjects 
+-r 1192269B lowelodev lowelodev Main_2021_06_21_225252.jfr 
+dr 0B lowelodev lowelodev Music 
+dr 5614B lowelodev lowelodev Pictures 
+-r 986B lowelodev lowelodev pkglist.txt 
+dr 0B lowelodev lowelodev Public 
+dr 0B lowelodev lowelodev Templates 
+dr 26B lowelodev lowelodev Videos 

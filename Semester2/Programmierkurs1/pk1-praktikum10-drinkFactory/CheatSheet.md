@@ -46,7 +46,7 @@ normal java classes.
 
 In this case, records are probably the cleanest.
 
-Read more: https://openjdk.java.net/jeps/359
+Read more: [https://openjdk.java.net/jeps/359]()
 
 ### Synchronized
 

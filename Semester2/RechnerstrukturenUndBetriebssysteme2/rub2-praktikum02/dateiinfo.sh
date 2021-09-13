@@ -6,4 +6,3 @@ do
   cmake-build-debug/rub2_praktikum02 $file | tee -a dateiinfo.txt
 done
 
-

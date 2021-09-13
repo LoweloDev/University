@@ -3,7 +3,7 @@ package com.Sodafactory;
 import java.util.ArrayDeque;
 
 public class Conveyor {
-    private final ArrayDeque<Bottle> belt = new ArrayDeque<>();
+    public final ArrayDeque<Bottle> belt = new ArrayDeque<>();
 
     void load(Bottle b) {
         if (!isOverloaded()) {
