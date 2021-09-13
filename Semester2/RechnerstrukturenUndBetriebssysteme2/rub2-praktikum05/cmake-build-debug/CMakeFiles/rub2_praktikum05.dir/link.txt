@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/rub2_praktikum05.dir/main.c.o -o rub2_praktikum05 

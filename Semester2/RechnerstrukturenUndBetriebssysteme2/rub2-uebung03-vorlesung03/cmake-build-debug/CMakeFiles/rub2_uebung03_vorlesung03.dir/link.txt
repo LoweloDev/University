@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/rub2_uebung03_vorlesung03.dir/main.c.o -o rub2_uebung03_vorlesung03 
