@@ -79,6 +79,9 @@
 		<Unit filename="/home/lowelodev/IdeaProjects/University/Semester2/RechnerstrukturenUndBetriebssysteme2/rub2-praktikum06-vorlesung04/main.c">
 			<Option target="rub2_praktikum06_vorlesung04"/>
 		</Unit>
+		<Unit filename="/home/lowelodev/IdeaProjects/University/Semester2/RechnerstrukturenUndBetriebssysteme2/rub2-praktikum06-vorlesung04/test.h">
+			<Option target="rub2_praktikum06_vorlesung04"/>
+		</Unit>
 		<Unit filename="/home/lowelodev/IdeaProjects/University/Semester2/RechnerstrukturenUndBetriebssysteme2/rub2-praktikum06-vorlesung04/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
