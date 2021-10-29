@@ -1,0 +1,1 @@
+int ggt(int x, int y);
